@@ -14,7 +14,7 @@ Hello, I'm Patricia Manalang!
 
 
 ```
-🌱 Currently: Wrapping up my full stack web application called Plant Diary
+🌱 Currently: Wrapping up my full stack web application called Plant Diary 🪴🍃
 💖 Fun fact: Prior to web development, I worked as a Luxury Real Estate Agent 🏠 🔑
 ```
 
