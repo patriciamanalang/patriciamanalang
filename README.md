@@ -1,25 +1,28 @@
-<h1 align="center">
-Hello, I'm Patricia Manalang!
-  <img src="https://media.tenor.com/nizBbUOEelMAAAAi/sweethouse-hello.gif" width="100"></h1>
+<h1 align="center"> Hellooooo <img src="https://media.tenor.com/nizBbUOEelMAAAAi/sweethouse-hello.gif" width="80"><br/> My name is Patricia Manalang!
+
+  </h1>
 
  </a> 
 <br/>
 
+
+
+<img align="left" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif " alt="Typing Cat" width="320" />
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=A4DBFF&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A4DBFF&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif " alt="Street Fighter" width="320" />
-
-
 <h2 align="center">💖 About Me</h2>
-I am a software developer based in Orange County, California.<br/>
-Prior to web development, I worked as a real estate agent and serviced the Orange County & LA County areas. 🏠 🔑 I was first introduced to the world of web development through the multiple software developer clients I've assisted in finding a home. Learning little bits of what my clients did for work during our property tours is what sparked my interest to look further into this career. ✨   
+   
 
 
 
 ```
-🌱 Currently: Wrapping up my full stack web application called Plant Diary 🪴🍃
+I am a software developer based in Orange County, California.
+Prior to web development, I worked as a real estate agent and serviced the Orange County & LA County areas. 🏠 🔑 
+I was first introduced to the world of web development through the multiple software developer clients I've assisted in finding a home. 
+Learning little bits of what my clients did for work during our property tours is what sparked my interest to look further into this career. ✨
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciamanalang&theme=gruvbox_light&count_private=true&show_icons=true&include_all_commits=true)
@@ -59,5 +62,5 @@ Prior to web development, I worked as a real estate agent and serviced the Orang
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=A4DBFF&width=435&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A4DBFF&width=435&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" /></a>
 </p>
