@@ -10,14 +10,17 @@ Hello, I'm Patricia Manalang!
 </p>
 
 <img align="left" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif " alt="Street Fighter" width="320" />
-<hr>
+
+
+<h2 align="center">💖 About Me</h2>
+I am a software developer based in Orange County, California.<br/>
+Prior to web development, I worked as a real estate agent and serviced the Orange County & LA County areas. 🏠 🔑 I was first introduced to the world of web development through the multiple software developer clients I've assisted in finding a home. Learning little bits of what my clients did for work during our property tours is what sparked my interest to look further into this career. ✨   
+
 
 
 ```
 🌱 Currently: Wrapping up my full stack web application called Plant Diary 🪴🍃
-💖 Fun fact: Prior to web development, I worked as a Luxury Real Estate Agent 🏠 🔑
 ```
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciamanalang&theme=gruvbox_light&count_private=true&show_icons=true&include_all_commits=true)
 
