@@ -6,7 +6,7 @@ Hello, I'm Patricia Manalang!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=A4DBFF&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 <img align="left" src="https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif " alt="Street Fighter" width="320" />
@@ -56,4 +56,8 @@ Prior to web development, I worked as a real estate agent and serviced the Orang
   <a href = "mailto: patriciamanalang06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=A4DBFF&width=435&lines=Thank+you+for+visiting+my+profile!" alt="Typing SVG" /></a>
 </p>
