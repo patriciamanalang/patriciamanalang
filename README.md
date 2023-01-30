@@ -19,15 +19,20 @@
 
 
 ```
-I am a software developer based in Orange County, 
-California. Prior to web development, I worked as
-a real estate agent and serviced the Orange County
-& LA County areas. 🏠 🔑 I was first introduced to 
-the world of web development through the multiple 
-software developer clients I've assisted in finding
-a home. Learning little bits of what my clients did 
-for work during our property tours is what sparked 
-my interest to look further into this career. ✨
+I am a software developer based in 
+Orange County, California. Prior to 
+web development, I worked as a real 
+estate agent and serviced the Orange 
+County & LA County areas. 🏠 🔑 
+I was first introduced to the world 
+of web development through the 
+multiple software developer clients 
+I've assisted in finding a home. 
+Learning little bits of what my 
+clients did for work during our 
+property tours is what sparked 
+my interest to look further 
+into this career. ✨
 ```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patriciamanalang&theme=gruvbox_light&count_private=true&show_icons=true&include_all_commits=true)
